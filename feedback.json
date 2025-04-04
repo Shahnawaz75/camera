@@ -1,0 +1,35 @@
+[
+    {
+        "accuracy": "Not Satisfied",
+        "integration": "Medium",
+        "performance": "Yes",
+        "privacy": "not_important",
+        "balance": "No",
+        "anomalies": "fire",
+        "falsep": "Yes",
+        "recommend": "no",
+        "timestamp": "2025-03-24 00:59:12"
+    },
+    {
+        "accuracy": "Not Satisfied",
+        "integration": "Medium",
+        "performance": "Yes",
+        "privacy": "very_important",
+        "balance": "Yes",
+        "anomalies": "fighting",
+        "falsep": "Yes",
+        "recommend": "no",
+        "timestamp": "2025-03-24 01:09:16"
+    },
+    {
+        "accuracy": "Not Satisfied",
+        "integration": "Medium",
+        "performance": "Yes",
+        "privacy": "very_important",
+        "balance": "Yes",
+        "anomalies": "fighting",
+        "falsep": "Yes",
+        "recommend": "yes",
+        "timestamp": "2025-03-26 00:42:51"
+    }
+]
